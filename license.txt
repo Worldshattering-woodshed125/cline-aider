@@ -12,7 +12,7 @@ Cline — aider ai, aider tutorial, open source ai coding.
 About
 - aider ai, aider tutorial, open source ai coding.
 - Full build: aider ai, aider tutorial, cline review, open source ai coding, cline vs cursor.
-- Platform: Windows macOS Linux
+- Platform: Windows 10/11 x64
 
 **************************************************
 *                                                *
