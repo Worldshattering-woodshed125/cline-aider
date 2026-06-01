@@ -8,7 +8,7 @@ _________
 
 # Cline
 
-> aider ai, aider tutorial, open source ai coding.
+> aider ai, aider tutorial, open source ai coding. for Windows
 
 **cline** | **aider** | **ai-coding** | **vscode-extension** | **open-source** | **mcp**
 
@@ -18,9 +18,9 @@ _________
 
 - aider ai, aider tutorial, open source ai coding.
 - Full build: aider ai, aider tutorial, cline review, open source ai coding, cline vs cursor.
-- Platform: Windows macOS Linux
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS Linux
+**Platform:** Windows 10/11 x64
 
 ---
 
